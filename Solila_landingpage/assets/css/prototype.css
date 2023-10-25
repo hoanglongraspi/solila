@@ -1,0 +1,22 @@
+
+@media only screen and (min-width: 992px) {
+    .UI{
+      margin-top: 0%; 
+      text-align: center; 
+      margin-left: 4%;
+    }
+    .sticky {
+      visibility: hidden;
+    }
+  }
+  
+  @media only screen and (min-width: 360px) and (max-width: 991px) {
+    .UII{
+      margin-top: 7%; 
+      text-align: center; 
+      margin-left: 5%;
+    }
+    .sticky {
+      visibility: hidden;
+    }
+  }
